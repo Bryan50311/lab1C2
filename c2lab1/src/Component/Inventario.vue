@@ -115,8 +115,8 @@ const addProduct = () => {
             <td>{{ item.name }}</td>
             <td><span class="badge">{{ item.category }}</span></td>
             <td>{{ item.quantity }}</td>
-            <td>Q{{ item.price.toFixed(2) }}</td>
-            <td>Q{{ (item.quantity * item.price).toFixed(2) }}</td>
+            <td>${{ item.price.toFixed(2) }}</td>
+            <td>${{ (item.quantity * item.price).toFixed(2) }}</td>
           </tr>
         </tbody>
       </table>

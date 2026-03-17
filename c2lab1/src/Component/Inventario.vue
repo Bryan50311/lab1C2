@@ -82,7 +82,7 @@ const addProduct = () => {
           </div>
           
           <div class="form-group">
-            <label for="price">Precio (Q)</label>
+            <label for="price">Precio ($)</label>
             <input id="price" type="number" step="0.01" v-model.number="price" placeholder="Ej. 5.50">
           </div>
         </div>

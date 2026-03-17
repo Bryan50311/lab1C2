@@ -1,5 +1,5 @@
 <script setup>
-import Inventario from './Component/InventoryApp.vue'
+import Inventario from './Component/Inventario.vue'
 </script>
 
 <template>

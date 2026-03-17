@@ -1,7 +1,7 @@
 # Sistema de Gestión de Inventario para Pequeños Negocios
 
 ## 1. Situación Problemática
-**Enunciado:** En la actualidad, muchas pequeñas tiendas de abarrotes y emprendimientos locales llevan el control de sus productos y ventas de forma manual utilizando cuadernos o libretas. Esto genera problemas como pérdida de información, errores en los cálculos de inventario, y dificultad para conocer cuánta mercancía tienen realmente disponible. 
+**Enunciado:** En la actualidad, muchas pequeñas tiendas y emprendimientos locales llevan el control de sus productos y ventas de forma manual utilizando cuadernos o libretas. Esto genera problemas como pérdida de información, errores en los cálculos de inventario, y dificultad para conocer cuánta mercancía tienen realmente disponible. 
 
 **Sector Enfocado:** Sector comercial minorista, como tiendas de abarrotes, pequeñas ferreterías, papelerías o negocios de comida rápida.
 
